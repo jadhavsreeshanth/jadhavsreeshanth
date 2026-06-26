@@ -195,12 +195,6 @@ Focused on cryptography, secure communication, security protocols and cyber secu
 
 ---
 
-## 📊 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jadhavsreeshanth&theme=tokyo-night" />
-</p>
-
----
 
 ⭐ From **Sreeshanth Jadhav**
